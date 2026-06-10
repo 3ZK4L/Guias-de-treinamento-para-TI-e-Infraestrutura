@@ -6,7 +6,7 @@ Para solucionar esta demanda, vamos utilizar o programa “SEFIP – Caixa Econ�
 
 O programa SEFIP não consegue ser executado devido à falta de privilégios de administrador, abaixo estão dois métodos de solução com suas respectivas instruções passo a passo.
 
-Método 1 - Via propriedades no Atalho do software
+## Método 1 - Via propriedades no Atalho do software
 Passo 1: Clique com o botão direito no atalho do software e entre em propriedades, depois vá para a aba “Segurança”.
 
 ![Exemplo do erro no aplicativo SEFIP](images/Imagem-2-ADM.png)
