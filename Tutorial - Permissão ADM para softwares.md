@@ -3,6 +3,8 @@ Como solucionar o problema de um software precisar de permissões de administrad
 Este é um tutorial simples para a equipe da Central de serviços, explicando como solucionar o problema de um software precisar de permissões de administrador sempre que ele for executado. 
 Para solucionar esta demanda, vamos utilizar o programa “SEFIP – Caixa Econômica Federal” do banco CAIXA e realizar o processo dentro de um usuário Teste da equipe da Central de Serviços para exemplificar o problema.
 
+![Exemplo do erro no aplicativo SEFIP](Imagem-1-ADM)
+
 O programa SEFIP não consegue ser executado devido à falta de privilégios de administrador, abaixo estão dois métodos de solução com suas respectivas instruções passo a passo.
 
 Método 1 - Via propriedades no Atalho do software
