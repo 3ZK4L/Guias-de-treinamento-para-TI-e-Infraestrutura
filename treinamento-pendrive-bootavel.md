@@ -17,8 +17,9 @@ Acesse seu navegador, navegue até o site oficial da ferramenta Ventoy e acesse 
 ![Foto treinamento pendrive](images/Imagem-1-pendrive.png)
 
 
-
+### Passo 2:
 Na aba Downloads, selecione o arquivo compactado da ferramenta Ventoy equivalente ao seu sistema operacional (Windows ou Linux). Você será redirecionado para o site do SourceForge para realizar o download da ferramenta.
+![Foto treinamento pendrive](images/Imagem-2-pendrive.png)
 
 
 
