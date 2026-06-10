@@ -33,7 +33,7 @@ E inicie a ferramenta Ventoy
 ![Foto treinamento pendrive](images/Imagem-5-pendrive.png)
 
 ### Passo 4:
-Selecione o pendrive que realizaremos a instalação dos arquivos da ferramneta Ventoy e clique no botão “Install”, realize as confirmações para iniciar a instalação.
+Selecione o pendrive que realizaremos a instalação dos arquivos da ferramenta Ventoy e clique no botão “Install”, realize as confirmações para iniciar a instalação.
 ![Foto treinamento pendrive](images/Imagem-6-pendrive.png)
 
 ### Passo 5:
