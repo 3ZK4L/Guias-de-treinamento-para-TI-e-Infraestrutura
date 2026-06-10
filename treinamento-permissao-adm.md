@@ -13,7 +13,7 @@ Clique com o botão direito no atalho do software e entre em propriedades, depoi
 ![Exemplo do erro no aplicativo SEFIP](images/Imagem-2-ADM.png)
 
 
-### - Passo 2:
+### Passo 2:
 Na aba de Segurança clique no botão “Editar” para alterar as permissões do atalho (insira suas credenciais de administrador para uma nova janela ser aberta).
 
 ![Exemplo do erro no aplicativo SEFIP](images/Imagem-3-ADM.png)
