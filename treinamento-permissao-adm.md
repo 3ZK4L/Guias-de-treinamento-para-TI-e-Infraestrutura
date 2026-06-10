@@ -49,7 +49,7 @@ Clique com o botão direito no atalho do aplicativo e entre em “Abrir local do
 
 ![Exemplo do erro no aplicativo SEFIP](images/Imagem-7-ADM.png)
 
-Marcado em vermelho está o endereço onde os arquivos do software estão localizados, você deve localizar onde estes arquivos estão situados para poder realizar as alterações na pasta correta. Neste exemplo, os arquivos do executável “SEFIP” estão localizados na pasta SEFIP, esta será a pasta em que vamos modificar.
+> Marcado em vermelho está o endereço onde os arquivos do software estão localizados, você deve localizar onde estes arquivos estão situados para poder realizar as alterações na pasta correta. Neste exemplo, os arquivos do executável “SEFIP” estão localizados na pasta SEFIP, esta será a pasta em que vamos modificar.
 Após identificar a pasta que contém todos os arquivos e o executável do software, clique com o botão direito nela e entre em propriedades na aba “Segurança”.
 
 
@@ -70,7 +70,7 @@ No campo de texto, digite o nome do usuário e clique no botão “Verificar nom
 
 ![Exemplo do erro no aplicativo SEFIP](images/Imagem-10-ADM.png)
 
-Obs.: Caso o nome não seja encontrado, verifique se a busca esteja sendo feita no domínio da prefeitura e não localmente no computador no campo “Deste local”. Para verificar os locais de busca, clique no botão “Locais...”.
+> Obs.: Caso o nome não seja encontrado, verifique se a busca esteja sendo feita no domínio da prefeitura e não localmente no computador no campo “Deste local”. Para verificar os locais de busca, clique no botão “Locais...”.
 A busca deve ser feita dentro do domínio pmc.intra e não no computador local.
 
 
