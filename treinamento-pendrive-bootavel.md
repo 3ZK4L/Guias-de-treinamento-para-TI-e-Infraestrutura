@@ -3,7 +3,7 @@
 
 Este é um tutorial simples explicando como criar um pendrive bootável, permitindo que você realize a instalação de diversos sistemas operacionais sem precisar formatar o pendrive todas as vezes que quiser trocar o arquivo ISO.
 
-Como criar um pendrive bootável?
+## Como criar um pendrive bootável?
 
 O primeiro passo é adquirir um pendrive com uma boa capacidade de armazenamento para armazenar uma ou mais arquivos .ISO. Por recomendação, um pendrive de 32GB e 64GB são ótimas opções!
 
@@ -11,8 +11,10 @@ Assim que adquirir o pendrive, devemos escolher uma ferramenta de boot para prep
 
 Para criar um pendrive bootável pela ferramenta Ventoy, siga o passo a passo abaixo:
 
+### Passo 1:
 Acesse seu navegador, navegue até o site oficial da ferramenta Ventoy e acesse a aba “Downloads”.
 (link: https://www.ventoy.net/en/index.html)
+![Foto treinamento pendrive](images/Imagem-1-pendrive.png)
 
 
 
