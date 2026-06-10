@@ -8,6 +8,7 @@ O programa SEFIP não consegue ser executado devido à falta de privilégios de 
 
 Método 1 - Via propriedades no Atalho do software
 Passo 1: Clique com o botão direito no atalho do software e entre em propriedades, depois vá para a aba “Segurança”.
+
 ![Exemplo do erro no aplicativo SEFIP](images/Imagem-2-ADM.png)
 
 
