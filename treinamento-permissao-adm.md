@@ -30,7 +30,7 @@ No campo de texto, digite o nome do usuário e clique no botão “Verificar nom
 
 ![Exemplo do erro no aplicativo SEFIP](images/Imagem-5-ADM.png)
 
-> ** Obs.:** Caso o nome não seja encontrado, verifique se a busca esteja sendo feita no domínio da prefeitura e não localmente no computador no campo “Deste local”. Para verificar os locais de busca, clique no botão “Locais...”.
+> Obs.: Caso o nome não seja encontrado, verifique se a busca esteja sendo feita no domínio da prefeitura e não localmente no computador no campo “Deste local”. Para verificar os locais de busca, clique no botão “Locais...”.
 A busca deve ser feita dentro do domínio pmc.intra e não no computador local.
 
 ### Passo 5:
