@@ -22,13 +22,15 @@ Na aba Downloads, selecione o arquivo compactado da ferramenta Ventoy equivalent
 ![Foto treinamento pendrive](images/Imagem-2-pendrive.png)
 
 
-
+### Passo 3:
 Após baixar a ferramenta, acesse seu gerenciador de arquivos e descompacte a pasta
+![Foto treinamento pendrive](images/Imagem-3-pendrive.png)
 
-Acesse a pasta descompactada 
-
+Acesse a pasta descompactada
+![Foto treinamento pendrive](images/Imagem-4-pendrive.png)
 
 E inicie a ferramenta Ventoy
+![Foto treinamento pendrive](images/Imagem-5-pendrive.png)
 
 
 Selecione o pendrive que realizaremos a instalação dos programas Ventoy e clique no botão “Install”, realize as confirmações para iniciar a instalação.
