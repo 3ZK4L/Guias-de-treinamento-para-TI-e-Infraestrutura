@@ -46,6 +46,8 @@ Depois da instalação e configuração do pendrive, você já pode colocar dive
 
 
 Carlos Eduardo da Silva
+
 01/06/2026
-Estudante do curso Análise e Desenvolvimento de Sistemas
+
+Estudante do curso Análise e Desenvolvimento de Sistemas - UNA Contagem
 
