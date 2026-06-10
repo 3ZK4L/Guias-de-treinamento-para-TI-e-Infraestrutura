@@ -32,12 +32,17 @@ Acesse a pasta descompactada
 E inicie a ferramenta Ventoy
 ![Foto treinamento pendrive](images/Imagem-5-pendrive.png)
 
-
+### Passo 4:
 Selecione o pendrive que realizaremos a instalação dos programas Ventoy e clique no botão “Install”, realize as confirmações para iniciar a instalação.
+![Foto treinamento pendrive](images/Imagem-6-pendrive.png)
 
+### Passo 5:
 Após a instalação terminar, em seu gerenciador de arquivos, o nome do pendrive será substituído por “Ventoy (letra do disco)”, indicando que a instalação da ferramenta e a configuração do pendrive foi realizada com sucesso!
+![Foto treinamento pendrive](images/Imagem-7-pendrive.png)
 
+### Passo 6:
 Depois da instalação e configuração do pendrive, você já pode colocar diversos arquivos ISO’s de diferentes sistemas operacionais e pastas com outros arquivos diferentes sem se preocupar em formatar o pendrive toda hora!
+![Foto treinamento pendrive](images/Imagem-8-pendrive.png)
 
 
 Carlos Eduardo da Silva
